@@ -53,7 +53,7 @@ int main()
     std::uniform_real_distribution<double> urd(-2, 2);
     //std::uniform_real_distribution<double> urd_mut(-2, 2);
     std::uniform_real_distribution<double> pr(0, 1);
-    int n = 10;
+    int n = 100;
     double p_mut = 0.25;
 
     //создание
